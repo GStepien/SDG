@@ -1,0 +1,9 @@
+.RData
+.Rhistory
+*.Rproj
+.Rproj.user
+examples/**/*.lm
+examples/**/*.vocab
+examples/**/*.svg
+*.htm
+*.html
